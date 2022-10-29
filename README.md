@@ -10,7 +10,7 @@ En la pagina se pude ver como no es perfecta pero gracias a las clases del curso
 2.El siguiente en el Jumnotron use palabras extra en los titulos para usar los de ejemplo ya que serian modificadas con mas informacion que me proporcionaran con el tiempo.
 3.El catalogo se pude ver lods diferentes productos que ofrece la empresa y contiene movimientos para mayor visibilidad.
 4. como Extras coloque testimoniales igual de texto aleatorio para poder colocar mejor informacion en un futuro igual con movimientos para mayor visibilidad.
-5. Al Final el Footer coloque los contactos igual con informacion aleatoria pero con las secciones de ubicacion e incluyendo las redes sociales .
+5. Al Final el Footer coloque los contactos igual con informacion aleatoria pero con las secciones de ubicacion e incluyendo las redes sociales.
 
 #Despliegue URL
 En esta parte se Agrega el url de la pagina hecho atrabes de Netlify 
